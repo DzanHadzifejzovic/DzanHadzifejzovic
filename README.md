@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dzan Hadzifejzovic
-- 👀 I’m interested in Java programming language and Kotline. I love to learn more and more. I also now to work with HTML/CSS and JS. 
-- 🌱 I’m currently start with learning C#, because more you know , more you're worth.
+- 👀 I’m interested in Java programming language and C#. I love to learn more and more. I also now to work with HTML/CSS and JS. 
+- 🌱 I’m currently learning React and Angular, because more you know , more you're worth.
 - 💞️ I’m looking to collaborate with some company with which i would progress and acquired new knowledge.
 - 📫 How to reach me ...my email is dzanhadzifejzovic123@gmail.com
 
