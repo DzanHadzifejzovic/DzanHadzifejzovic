@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dzan Hadzifejzovic
-- 👀 I’m interested in C#(asp.net) and Java. I love to learn more and more. I also now to work with HTML/CSS and JS. 
-- 🌱 I’m currently learning React, because more you know , more you're worth.
+- 👀 I’m interested in C#(asp.net) and Java(especially javaFX). I love to learn more and more. I also now to work with HTML/CSS and JS. 
+- 🌱 I’m also working with React, because more you know , more you're worth.
 - 💞️ I’m looking to collaborate with some company with which i would progress and acquired new knowledge.
 - 📫 How to reach me ...my email is dzanhadzifejzovic123@gmail.com
 
